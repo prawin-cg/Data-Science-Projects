@@ -6,4 +6,6 @@ In recent years, the credit card issuers in Taiwan faced the cash and credit car
 The objective is to determine the factors which could be deciding whether client will default or not and also build and train a predictive model using the dataset.<br>
 <strong>3. Categorising Countries:</strong><br>
 HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities.HELP International have been able to raise around $ 10 million. Now the CEO of the NGO needs to decide how to use this money strategically and effectively. So, CEO has to make decision to choose the countries that are in the direst need of aid.<br>
-The objective is to categorise the countries using socio-economic and health factors that determine the overall development of the country.
+The objective is to categorise the countries using socio-economic and health factors that determine the overall development of the country.<br>
+<strong>4. Diabetes Risk Prediction</strong><br>
+The objective of this predictive data analysis is that it could help the doctors and patients to find if there is risk of being diabetic and further help them to take precautionary measures and required treatments. This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient. This has been collected using direct questionnaires from the patients of Sylhet Diabetes Hospital in Sylhet, Bangladesh and approved by a doctor.
